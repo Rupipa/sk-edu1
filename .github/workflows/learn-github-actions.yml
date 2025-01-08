@@ -1,4 +1,4 @@
-name : learn-gitgub-actions
+name: learn-gitgub-actions
 run-name: ${{  githun.actor  }}  is learning GitHub Actions
 on : [push]
 jobs:
